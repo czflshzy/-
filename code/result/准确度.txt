@@ -1,0 +1,5 @@
+convnect_base 100%
+convnect_tiny 99.60%
+regnet 81.53%
+resnet18 98.81%
+resnet 99.87%
